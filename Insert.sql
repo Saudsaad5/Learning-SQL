@@ -5,5 +5,5 @@ values (1,'Saud','Saad',25.99,'2024-06-24','0551666387'),
        (3,'azad','mustafa',40.50,'2024-5-26','0503741839');
 
 -- to insert some of the data:
-isert into Employees(employee_id,first_name,last_name)
+insert into Employees(employee_id,first_name,last_name)
 values (4, 'ahmed', 'mohsen');
